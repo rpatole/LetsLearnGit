@@ -6,7 +6,7 @@ public class Diff
 		int a=1;
 		int b=2;
 		
-System.out.println("the diff id "+(a-b));
+System.out.println("the diff is "+(a-b));
 	
 	}
 }
